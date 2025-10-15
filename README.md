@@ -15,8 +15,5 @@ Dataset Details:
 - Test Images: 100,000
 - Source: Hugging Face Datasets - ImageNet-1k (https://huggingface.co/datasets/ILSVRC/imagenet-1k)
 
-💡 This is the same dataset used in the original ResNet paper (“Deep Residual Learning for Image Recognition”, He et al., 2015).
-
-
 
 ## Environment Setup on AWS
