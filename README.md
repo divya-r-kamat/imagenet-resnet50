@@ -1,4 +1,4 @@
-# ResNet-50 Training on ImageNet-1k Using AWS EC2 + Hugging Face Datasets
+# ResNet-50 Training on ImageNet-1k Using AWS EC2
 
 Train a ResNet-50 model from scratch on the ImageNet-1k (ILSVRC 2012) dataset using PyTorch and AWS EC2 GPU instance
 
